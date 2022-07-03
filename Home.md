@@ -1,0 +1,28 @@
+<header>
+  <h1> CAREER INSTITUTE</h1>
+</header>
+<nav>
+  <a href="#">Home</a>
+
+  <a href="#">Courses</a>
+
+  <a href="#">Login/SignUp</a>
+
+</nav>
+<br>
+<br>
+<br>
+<main>
+  <section>
+    <h2>courses</h2>
+    <p> our new courses are coming soon....</p>
+  </section>
+  <section>
+    <h2> About institute </h2>
+    <p>
+      Career institute is a revolutionary coaching in offline /online mode in Sitamarhi .
+      This is run by two young teachers they are graduate.in this coaching all subjects of class 1 to 10 will be taught.
+      Here you will get quality education.</p>
+  </section>
+  <section>
+    <h2>
