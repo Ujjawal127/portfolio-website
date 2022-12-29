@@ -9,7 +9,7 @@
 
   <a href="#">Refund Policy</a>
 
-  <a href="#">&copy; 2022 | career institute</a>
+  <a href="#">&copy; 2022 </a>
 
 </footer>
 
