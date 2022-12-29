@@ -8,7 +8,7 @@
     
 </head>
 <body>
-  <img src="download.jpg" height="100" >
+ 
   <p>welcome to my page  
     <br>
     HERE YOU CAN GET SOME INFORMATION ABOUT ME.
